@@ -1,5 +1,4 @@
-Welcome to my GitHub page! 
+Welcome to my GitHub page!
 
-[Personal Website](https://arapatvakanian.github.io/)
-[LinkedIn](https://www.linkedin.com/in/arapatvakanian/)
+[Personal Website](https://arapatvakanian.github.io/) \
 Contact: [arap15@upenn.edu](mailto:arap15@upenn.edu)
